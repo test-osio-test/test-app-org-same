@@ -7,13 +7,6 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 == Runing the Booster Locally
 ocally
 
-To interact with your booster while it's running locally, use the form at `http://localhost:8080` or the `curl` command:
-
-[source,bash,options="nowrap",subs="attributes+"]
-----
-$ curl http://localhost:8080/api/greeting
-{"content":"Hello, World!"}
-
 $ curl http://localhost:8080/api/greeting?name=Sarah
 {"content":"Hello, Sarah!"}
 ----
