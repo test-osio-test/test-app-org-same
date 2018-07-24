@@ -6,9 +6,7 @@ IMPORTANT: As part of t
 == Runing the Booster Locally
 ocally
 
-$ curl http://localhost:8080/api/greeting?name=Sarah
-{"content":"Hello, Sarah!"}
-----
+
 
 
 == Updating the Booster
